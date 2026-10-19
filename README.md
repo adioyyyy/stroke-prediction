@@ -1,4 +1,6 @@
 # Stroke Prediction using Logistic Regression
+## Author
+ABDISALAM NUR
 
 BTEC International Level 3 Diploma in IT: Introduction to Artificial Intelligence (AI)
 
@@ -48,4 +50,4 @@ pip install -r requirements.txt
 - `README.md`: project overview
 
 ## Author
-Student project, Oshwal College
+ABDISALAM NUR, Oshwal College
