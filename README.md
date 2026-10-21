@@ -38,11 +38,6 @@ The baseline had high accuracy but missed almost every stroke. The final model d
 2. Upload `healthcare-dataset-stroke-data.csv` when prompted (or place it in the same folder)
 3. Run all cells in order
 
-Install requirements locally with:
-```
-pip install -r requirements.txt
-```
-
 ## Files
 - `stroke_prediction_full.ipynb`: full notebook with code and outputs
 - `healthcare-dataset-stroke-data.csv`: dataset
